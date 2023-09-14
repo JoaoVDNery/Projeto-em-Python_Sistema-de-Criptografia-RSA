@@ -1,0 +1,4 @@
+- Para realizar o procedimento de criptografia e descriptografia será necessário possuir as chaves prublicas e privadas
+para obtê-las o usuário deve gera-las utilizando o programa "Criação_de_Chaves.py".
+
+- Os arquivos devem estar na mesma pasta para garantir o funcionamento.
